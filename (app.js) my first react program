@@ -6,3 +6,9 @@ const App = () => {
     <MyName/>
       <h1> Welcome to my React App! </h1>
       <p>Isn't it Awesome?</p>
+      <MyName/>
+    </>
+  );
+};
+
+const MyName = () => {
