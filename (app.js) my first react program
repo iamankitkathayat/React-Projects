@@ -14,3 +14,9 @@ const App = () => {
 const MyName = () => {
   return (
     <>
+    <h1>Hello! Ankit Kathayat</h1>
+    </>
+  )
+}
+
+export default App
