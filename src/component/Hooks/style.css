@@ -1,13 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
-body {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-  background: #060505;
-}
 
-.button {
   border: 2px solid #d2bdff;
   height: 80px;
   width: 200px;
