@@ -33,3 +33,6 @@ const MenuCard = ({ menuData }) => {
       </section>
     </>
   );
+};
+
+export default MenuCard;
