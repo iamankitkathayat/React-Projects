@@ -5,3 +5,4 @@ const navbar = ({ filterItem, menuList }) => {
     <>
       <nav className="navbar">
         <div className="btn-group">
+          {menuList.map((curElem) => {
