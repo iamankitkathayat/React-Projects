@@ -4,3 +4,4 @@ const navbar = ({ filterItem, menuList }) => {
   return (
     <>
       <nav className="navbar">
+        <div className="btn-group">
