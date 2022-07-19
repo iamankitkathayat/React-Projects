@@ -9,3 +9,4 @@ const navbar = ({ filterItem, menuList }) => {
             return (
               <button
                 className="btn-group__item"
+                onClick={() => filterItem(curElem)}>
