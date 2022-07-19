@@ -8,3 +8,4 @@ const navbar = ({ filterItem, menuList }) => {
           {menuList.map((curElem) => {
             return (
               <button
+                className="btn-group__item"
