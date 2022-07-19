@@ -19,3 +19,5 @@ const navbar = ({ filterItem, menuList }) => {
     </>
   );
 };
+
+export default navbar;
