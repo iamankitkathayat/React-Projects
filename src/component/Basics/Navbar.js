@@ -13,3 +13,5 @@ const navbar = ({ filterItem, menuList }) => {
                 {curElem}
               </button>
             );
+          })}
+        </div>
