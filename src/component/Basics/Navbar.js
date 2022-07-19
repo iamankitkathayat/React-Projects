@@ -11,3 +11,5 @@ const navbar = ({ filterItem, menuList }) => {
                 className="btn-group__item"
                 onClick={() => filterItem(curElem)}>
                 {curElem}
+              </button>
+            );
