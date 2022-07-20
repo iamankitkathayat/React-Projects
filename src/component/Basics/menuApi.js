@@ -23,3 +23,8 @@ const Menu = [
     image: "images/corn.jpg",
     name: "corn",
     category: "breakfast",
+    price: "10₹",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+  },
+  {
