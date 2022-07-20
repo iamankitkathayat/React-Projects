@@ -13,3 +13,8 @@ const Menu = [
     id: 2,
     image: "images/allupakoida.jpg",
     name: "allu pakoida",
+    category: "evening",
+    price: "20₹",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+  },
