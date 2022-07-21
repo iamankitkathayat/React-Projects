@@ -43,3 +43,8 @@ const Menu = [
     category: "evening",
     price: "80₹",
     description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+  },
+  {
+    id: 6,
+    image: "../images/nonvegthali.jpg",
