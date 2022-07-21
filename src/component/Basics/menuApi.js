@@ -58,3 +58,8 @@ const Menu = [
     id: 7,
     image: "../images/sweet.jpg",
     name: "Sweets",
+    category: "dinner",
+    price: "60₹",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+  },
