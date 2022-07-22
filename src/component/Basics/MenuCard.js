@@ -18,3 +18,8 @@ const MenuCard = ({ menuData }) => {
                     <span className="card-author subtle"> {category}</span>
                     <h2 className="card-title"> {name} </h2>
                     <span className="card-description subtle">
+                      {description}
+                    </span>
+                    <div className="card-read">Read</div>
+                  </div>
+                  <img src={image} alt="images" className="card-media" />
