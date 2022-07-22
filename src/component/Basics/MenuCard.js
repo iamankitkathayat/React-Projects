@@ -28,3 +28,8 @@ const MenuCard = ({ menuData }) => {
                 </div>
               </div>
             </>
+          );
+        })}
+      </section>
+    </>
+  );
