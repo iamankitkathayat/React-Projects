@@ -22,3 +22,5 @@ const UseEffect = () => {
         </div>
       </div>
     </>
+  );
+};
