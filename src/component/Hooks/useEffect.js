@@ -24,3 +24,5 @@ const UseEffect = () => {
     </>
   );
 };
+
+export default UseEffect;
