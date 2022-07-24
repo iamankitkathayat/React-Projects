@@ -7,3 +7,7 @@ const reducer = (state, action) => {
   }
 
   if (state > 0 && action.type === "DECR") {
+    state = state - 1;
+  }
+  return state;
+};
