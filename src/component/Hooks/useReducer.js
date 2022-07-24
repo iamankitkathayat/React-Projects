@@ -19,3 +19,7 @@ const UseReducer = () => {
   const [state, dispatch] = useReducer(reducer, intialData);
 
   return (
+    <>
+      <div className="center_div">
+        <p>{state}</p>
+        <div class="button2" onClick={() => dispatch({ type: "INCR" })}>
