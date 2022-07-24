@@ -33,3 +33,9 @@ const UseReducer = () => {
           <span></span>
           <span></span>
           <span></span>
+          <span></span>
+          DECR
+        </div>
+      </div>
+    </>
+  );
