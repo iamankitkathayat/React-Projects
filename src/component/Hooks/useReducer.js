@@ -39,3 +39,6 @@ const UseReducer = () => {
       </div>
     </>
   );
+};
+
+export default UseReducer;
