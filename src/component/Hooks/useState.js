@@ -26,3 +26,8 @@ const UseState = () => {
           DECR
         </div>
       </div>
+    </>
+  );
+};
+
+export default UseState;
