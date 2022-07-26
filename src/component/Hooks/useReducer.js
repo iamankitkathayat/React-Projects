@@ -10,3 +10,7 @@ const reducer = (state, action) => {
     state = state - 1;
   }
   return state;
+};
+
+const UseReducer = () => {
+  // const initialData = 15;
