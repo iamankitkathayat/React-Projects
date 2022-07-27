@@ -58,3 +58,23 @@ body {
     margin-left: -8px;
     margin-top: 75px;
   }
+  100% {
+    margin-left: -8px;
+    margin-top: -8px;
+  }
+}
+.button:hover::before {
+  opacity: 1;
+  animation: star 1.3s linear infinite;
+}
+.button:hover::after {
+  content: "I'M GLOWING";
+  text-shadow: 0 0 10px #fff, 0 0 10px #fff, 0 0 20px #82bedc, 0 0 30px #82bedc,
+    0 0 40px #82bedc, 0 0 50px #82bedc, 0 0 60px #82bedc;
+}
+
+.button2 {
+  position: relative;
+  display: inline-block;
+  padding: 30px 61px;
+  border-radius: 4px;
