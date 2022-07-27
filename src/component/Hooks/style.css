@@ -38,3 +38,23 @@ body {
   margin-top: -8px;
   opacity: 0;
   transition: all 0.1s linear;
+  border-radius: 100%;
+  animation: star 1.3s linear infinite;
+}
+@keyframes star {
+  0% {
+    margin-left: -8px;
+    margin-top: -8px;
+  }
+  25% {
+    margin-left: 194px;
+    margin-top: -8px;
+  }
+  50% {
+    margin-left: 194px;
+    margin-top: 75px;
+  }
+  75% {
+    margin-left: -8px;
+    margin-top: 75px;
+  }
