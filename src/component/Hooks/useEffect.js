@@ -8,3 +8,8 @@ const UseEffect = () => {
   useEffect(() => {
     document.title = `Chats(${myNum})`;
   });
+
+  return (
+    <>
+      <div className="center_div">
+        <p>{myNum}</p>
