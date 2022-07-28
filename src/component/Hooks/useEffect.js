@@ -18,3 +18,7 @@ const UseEffect = () => {
           <span></span>
           <span></span>
           <span></span>
+          INCR
+        </div>
+      </div>
+    </>
