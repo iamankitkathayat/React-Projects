@@ -22,3 +22,7 @@ const UseEffect = () => {
         </div>
       </div>
     </>
+  );
+};
+
+export default UseEffect;
