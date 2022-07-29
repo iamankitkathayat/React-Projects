@@ -24,3 +24,10 @@ const UseState = () => {
           <span></span>
           <span></span>
           DECR
+        </div>
+      </div>
+    </>
+  );
+};
+
+export default UseState;
