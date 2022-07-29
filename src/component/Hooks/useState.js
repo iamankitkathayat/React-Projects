@@ -16,3 +16,11 @@ const UseState = () => {
           <span></span>
           INCR
         </div>
+        <div
+          class="button2"
+          onClick={() => (myNum > 0 ? setMyNum(myNum - 1) : setMyNum(0))}>
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
+          DECR
