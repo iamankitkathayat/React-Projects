@@ -6,3 +6,7 @@ const MenuCard = ({ menuData }) => {
   return (
     <>
       <section className="main-card--cointainer">
+        {menuData.map((curElem) => {
+          const { id, name, category, image, description } = curElem;
+
+          return (
