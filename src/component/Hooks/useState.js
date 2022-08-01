@@ -12,3 +12,9 @@ const UseState = () => {
         <div class="button2" onClick={() => setMyNum(myNum + 1)}>
           <span></span>
           <span></span>
+          <span></span>
+          <span></span>
+          INCR
+        </div>
+        <div
+          class="button2"
