@@ -167,3 +167,15 @@ body {
   0% {
     bottom: -100%;
   }
+  50%,
+  100% {
+    bottom: 100%;
+  }
+}
+
+P {
+  color: #fff;
+  text-align: center;
+  font-size: 60px;
+  margin-bottom: 50px;
+}
