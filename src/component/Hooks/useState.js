@@ -28,3 +28,6 @@ const UseState = () => {
       </div>
     </>
   );
+};
+
+export default UseState;
