@@ -24,3 +24,7 @@ const UseState = () => {
           <span></span>
           <span></span>
           DECR
+        </div>
+      </div>
+    </>
+  );
