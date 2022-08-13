@@ -1,10 +1,4 @@
-
-    setMenuData(updatedList);
-  };
-
-  return (
-    <>
-      <Navbar filterItem={filterItem} menuList={menuList} />
+terItem} menuList={menuList} />
       <MenuCard menuData={menuData} />
     </>
   );
