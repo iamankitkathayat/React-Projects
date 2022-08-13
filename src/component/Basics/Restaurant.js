@@ -1,8 +1,4 @@
 
-  ...new Set(
-    Menu.map((curElem) => {
-      return curElem.category;
-    })
   ),
   "All",
 ];
