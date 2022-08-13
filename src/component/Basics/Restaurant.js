@@ -1,8 +1,4 @@
 
-    const updatedList = Menu.filter((curElem) => {
-      return curElem.category === category;
-    });
-
     setMenuData(updatedList);
   };
 
