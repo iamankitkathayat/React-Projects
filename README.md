@@ -1,2 +1,2 @@
 # React-Projects
-This repo contains react projects which I write as a beginner
+This repo contains react projects which I wrote/writing as a beginner
